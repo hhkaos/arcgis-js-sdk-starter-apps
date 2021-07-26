@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no"/>
+    <title>Getting started - ArcGIS API for JavaScript</title>
+    <style>
+      body{
+        text-align: center;
+      }
+      #viewDiv {
+        height: 400px;
+        width: 50%;
+        margin: 0 auto;
+      }
+    </style>
+
+    <link rel="stylesheet" href="https://js.arcgis.com/4.20/esri/themes/light/main.css">
+    <script> var locationPath=location.pathname.replace(/\/[^\/]*$/,"");window.dojoConfig={packages:[{name:"app",location:locationPath+"/app"}]}; </script>
+    <script src="https://js.arcgis.com/4.20"></script>
+  
+  </head>
+  <body>
+    
+    <h1>Getting started - <a href="http://js.arcgis.com/">ArcGIS API for JavaScript</a></h1>
+    <div id="viewDiv"></div>
+    
+    <script>require(["app/main"]);</script>
+  </body>
+</html>

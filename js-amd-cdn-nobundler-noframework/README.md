@@ -1,0 +1,1 @@
+> **Note**: original code from [https://developers.arcgis.com/javascript/latest/sample-code/intro-mapview/](https://developers.arcgis.com/javascript/latest/sample-code/intro-mapview/)

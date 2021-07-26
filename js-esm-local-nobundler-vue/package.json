@@ -1,0 +1,43 @@
+{
+  "name": "vue-cli",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open --port 3001 --host localhost",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@arcgis/core": "^4.20.0",
+    "core-js": "^3.6.5",
+    "vue": "^3.1.1"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.14.5",
+    "@vue/cli": "^4.5.13",
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
+    "@vue/compiler-sfc": "^3.1.1",
+    "eslint": "^7.28.0",
+    "eslint-plugin-vue": "^7.10.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

@@ -1,0 +1,49 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <title>Projection: Server side projection</title>
+  <style>
+    html,
+    body,
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+    #viewDiv {
+      width: calc(100% - 300px);
+      background-color: #ffffff;
+    }
+    #infoDiv {
+      position: fixed;
+      top: 0;
+      right: 0;
+      padding: 10px;
+      width: 300px;
+      height: 100%;
+      overflow: scroll;
+      background-color: rgba(243, 243, 243, 75%);
+      color: #151515;
+      word-break: break-all;
+    }
+    a,
+    a:visited{
+      color: #00619B
+    }
+  </style>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.20/esri/themes/light/main.css">
+    <script> var locationPath=location.pathname.replace(/\/[^\/]*$/,"");window.dojoConfig={packages:[{name:"app",location:locationPath+"/app"}]}; </script>
+    <script src="https://js.arcgis.com/4.20"></script>
+
+  </head>
+  <body>
+    <div id="viewDiv"></div>
+    <div id="infoDiv" class="esri-widget">
+      <div id="results">Select a country on the map.</div>
+    </div>
+  </div>
+  <script>require(["app/projection"]);</script>
+</body>
+</html>
