@@ -72,7 +72,7 @@ If you don't find a starter app that fits your needs, do not hesitate and [open 
 
 ## Acknowledgments
 
-Above you will find some of the resources used to compile this samples apps:
+Bellow you will find some of the resources used to compile this samples apps:
 
 * [https://github.com/Esri/jsapi-resources/tree/master/esm-samples/*](https://github.com/Esri/jsapi-resources/tree/master/esm-samples): ts-esm-local-nobundler-angular, js-esm-local-nobundler-ember, js-esm-local-nobundler-react, js-esm-cdn-nobundler-noframework, js-esm-local-rollup-nodejs, js-esm-local-nobundler-vue, js-esm-local-webpack-noframework-2, js-esm-local-rollup-noframework
 * [https://github.com/Esri/arcgis-js-cli](https://github.com/Esri/arcgis-js-cli): ts-esm-local-rollup-noframework, ts-esm-local-webpack-noframework
