@@ -1,6 +1,6 @@
 # ArcGIS JavaScript API 4.x
 
-This is a collection of started/sample/demo apps that aims to help you getting started with the [ArcGIS API for JavaScript](http://js.arcgis.com/), no matter what technologies / architecture you prefer to use:
+This is a collection of starter/sample/demo apps that aims to help you getting started with the [ArcGIS API for JavaScript](http://js.arcgis.com/), no matter what technologies / architecture you prefer to use:
 
 * **Language**: JavaScript (\*.js) or Typescript (\*.ts)
 * **Environment**: client-side (browser) vs server-side (Node.js)
