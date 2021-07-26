@@ -1,8 +1,16 @@
+# ts-amd-cdn-nobundler-noframework
+
+|Language|Framework|From|Strategy|Bundler|
+|---|---|---|---|---|
+|TypeScript|None|CDN|AMD<sup>1</sup>|None|
+
+> **Note <sup>1</sup>**: you will use `import` statements (ESM) with the AMD path, and the TypeScript compiler will translate them to AMD.
+
+---
+
+The goal of this starter app is to **provide the best developer experience** possible for developers learning the [ArcGIS API for JavaScript](http://js.arcgis.com/) **using VS Code properly configured to enjoy from code autocompletion and code snippets, without having to learn TypeScript syntax**.
+
 > Original code from: [github.com/Esri/jsapi-resources](https://github.com/Esri/jsapi-resources/tree/master/4.x/typescript/demo)
-
-# Getting started - ArcGIS API for JavaScript
-
-The goal of this project is to **provide the best developer experience** possible for developers learning the [ArcGIS API for JavaScript](http://js.arcgis.com/) **using VS Code properly configured to enjoy from code autocompletion and code snippets**.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
