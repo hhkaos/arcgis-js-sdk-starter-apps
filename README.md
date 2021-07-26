@@ -13,21 +13,21 @@ This is a collection of sample apps that aims to help you getting started with t
 
 |Language|Framework|From|Strategy|Bundler|Code|
 |---|---|---|---|---|---|
-|JavaScript|None|CDN|AMD|None|[Code](./starter-app/js-amd-cdn-nobundler-noframework)
-|JavaScript|None|CDN|ESM|None|[Code](./starter-app/js-esm-cdn-nobundler-noframework)
-|JavaScript|Ember.js|Local|ESM|None|[Code](./starter-app/js-esm-local-nobundler-ember)
-|JavaScript|React|Local|ESM|None|[Code](./starter-app/js-esm-local-nobundler-react)
-|JavaScript|Vue.js|Local|ESM|None|[Code](./starter-app/js-esm-local-nobundler-vue)
-|JavaScript|None|Local|ESM|Rollup.js|[Code](./starter-app/js-esm-local-rollup-noframework)
-|JS / NodeJS|None|Local|ESM|Rollup.js|[Code](./starter-app/js-esm-local-rollup-nodejs)
-|JavaScript|None|Local|ESM|Snowpack|[Code](./starter-app/js-esm-local-snowpack-noframework)
-|JavaScript|None|Local|ESM|Vite|[Code](./starter-app/js-esm-local-vite-noframework/README.md)
-|JavaScript|None|Local|ESM|Webpack|[Code](./starter-app/js-esm-local-webpack-noframework/README.md)
-|JavaScript|None|Local|ESM|Webpack|[Code (alt)](./starter-app/js-esm-local-webpack-noframework-2/README.md)
-|TypeScript|None|CDN|AMD<sup>1</sup>|None|[Code](./starter-app/ts-amd-cdn-nobundler-noframework/README.md)
-|TypeScript|AngularJS|Local|ESM|None|[Code](./starter-app/ts-esm-local-nobundler-angular)
-|TypeScript|None|Local|ESM|Rollup.js|[Code](./starter-app/ts-esm-local-rollup-noframework)
-|TypeScript|None|Local|ESM|Webpack|[Code](./starter-app/ts-esm-local-webpack-noframework)
+|JavaScript|None|CDN|AMD|None|[Code](./starter-apps/js-amd-cdn-nobundler-noframework)
+|JavaScript|None|CDN|ESM|None|[Code](./starter-apps/js-esm-cdn-nobundler-noframework)
+|JavaScript|Ember.js|Local|ESM|None|[Code](./starter-apps/js-esm-local-nobundler-ember)
+|JavaScript|React|Local|ESM|None|[Code](./starter-apps/js-esm-local-nobundler-react)
+|JavaScript|Vue.js|Local|ESM|None|[Code](./starter-apps/js-esm-local-nobundler-vue)
+|JavaScript|None|Local|ESM|Rollup.js|[Code](./starter-apps/js-esm-local-rollup-noframework)
+|JS / NodeJS|None|Local|ESM|Rollup.js|[Code](./starter-apps/js-esm-local-rollup-nodejs)
+|JavaScript|None|Local|ESM|Snowpack|[Code](./starter-apps/js-esm-local-snowpack-noframework)
+|JavaScript|None|Local|ESM|Vite|[Code](./starter-apps/js-esm-local-vite-noframework/README.md)
+|JavaScript|None|Local|ESM|Webpack|[Code](./starter-apps/js-esm-local-webpack-noframework/README.md)
+|JavaScript|None|Local|ESM|Webpack|[Code (alt)](./starter-apps/js-esm-local-webpack-noframework-2/README.md)
+|TypeScript|None|CDN|AMD<sup>1</sup>|None|[Code](./starter-apps/ts-amd-cdn-nobundler-noframework/README.md)
+|TypeScript|AngularJS|Local|ESM|None|[Code](./starter-apps/ts-esm-local-nobundler-angular)
+|TypeScript|None|Local|ESM|Rollup.js|[Code](./starter-apps/ts-esm-local-rollup-noframework)
+|TypeScript|None|Local|ESM|Webpack|[Code](./starter-apps/ts-esm-local-webpack-noframework)
 
 If you don't find a sample app that fits your needs, do not hesitate and [open an issue](https://github.com/hhkaos/arcgis-js-api-starter-apps/issues).
 
