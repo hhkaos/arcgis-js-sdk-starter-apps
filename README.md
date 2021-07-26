@@ -1,6 +1,23 @@
 # ArcGIS JavaScript API 4.x
 
-This is a collection of starter/sample/demo apps that aims to help you getting started with the [ArcGIS API for JavaScript](http://js.arcgis.com/), no matter what technologies / architecture you prefer to use:
+There are many resources and documentation to get start with the [ArcGIS API for JavaScript](http://js.arcgis.com/). This repo includes:
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Starter apps](#starter-apps)
+- [Documentation, tutorials, guides, videos ...](#documentation-tutorials-guides-videos-)
+- [Other resources](#other-resources)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+---
+
+## Starter apps
+
+Collection of starter/sample/demo apps that aims to help you getting started with the [ArcGIS API for JavaScript](http://js.arcgis.com/), no matter what technologies / architecture you prefer to use:
 
 * **Language**: JavaScript (\*.js) or Typescript (\*.ts)
 * **Environment**: client-side (browser) vs server-side (Node.js)
@@ -9,31 +26,9 @@ This is a collection of starter/sample/demo apps that aims to help you getting s
 * **Loading strategy**: AMD (require) or ESM (import)
 * **Web bundler**: Without using a bundler or using one (ViteJS, Rollup.js, Webpack, Parcel, Snowpack, ...)
 
-## Starter apps
+[Download app boilerplates](./starter-apps/) to help you get started.
 
-|Language|Framework|From|Strategy|Bundler|Code|
-|---|---|---|---|---|---|
-|JavaScript|None|CDN|AMD|None|[Code](./starter-apps/js-amd-cdn-nobundler-noframework)
-|JavaScript|None|CDN|ESM|None|[Code](./starter-apps/js-esm-cdn-nobundler-noframework)
-|JavaScript|Ember.js|Local|ESM|None|[Code](./starter-apps/js-esm-local-nobundler-ember)
-|JavaScript|React|Local|ESM|None|[Code](./starter-apps/js-esm-local-nobundler-react)
-|JavaScript|Vue.js|Local|ESM|None|[Code](./starter-apps/js-esm-local-nobundler-vue)
-|JavaScript|None|Local|ESM|Rollup.js|[Code](./starter-apps/js-esm-local-rollup-noframework)
-|JS / NodeJS|None|Local|ESM|Rollup.js|[Code](./starter-apps/js-esm-local-rollup-nodejs)
-|JavaScript|None|Local|ESM|Snowpack|[Code](./starter-apps/js-esm-local-snowpack-noframework)
-|JavaScript|None|Local|ESM|Vite|[Code](./starter-apps/js-esm-local-vite-noframework/README.md)
-|JavaScript|None|Local|ESM|Webpack|[Code](./starter-apps/js-esm-local-webpack-noframework/README.md)
-|JavaScript|None|Local|ESM|Webpack|[Code (alt)](./starter-apps/js-esm-local-webpack-noframework-2/README.md)
-|TypeScript|None|CDN|AMD<sup>1</sup>|None|[Code](./starter-apps/ts-amd-cdn-nobundler-noframework/README.md)
-|TypeScript|AngularJS|Local|ESM|None|[Code](./starter-apps/ts-esm-local-nobundler-angular)
-|TypeScript|None|Local|ESM|Rollup.js|[Code](./starter-apps/ts-esm-local-rollup-noframework)
-|TypeScript|None|Local|ESM|Webpack|[Code](./starter-apps/ts-esm-local-webpack-noframework)
-
-If you don't find a starter app that fits your needs, do not hesitate and [open an issue](https://github.com/hhkaos/arcgis-js-api-starter-apps/issues).
-
-> **Note <sup>1</sup>**: you will use `import` statements (ESM) with the AMD path, and the TypeScript compiler will translate them to AMD.
-
-## Getting started training
+## Documentation, tutorials, guides, videos ...
 
 **Tutorials**: [JS API Tutorials](https://developers.arcgis.com/javascript/latest/display-a-map/)
 
@@ -69,17 +64,6 @@ If you don't find a starter app that fits your needs, do not hesitate and [open 
 * [arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets): Collection of Visual Studio Code snippets for common code patterns.
 * [esri-vscode-snippets](https://github.com/hhkaos/esri-vscode-snippets): more user snippets to add to your custom User snippets
 * [snippets cheatsheet](https://cheatography.com/hhkaos/cheat-sheets/vscode-arcgis-js-api-4-x-snippets-cheat-sheet/): cheat sheet to help you getting familiar with the VS Code extension.
-
-## Acknowledgments
-
-Bellow you will find some of the resources used to compile this samples apps:
-
-* [https://github.com/Esri/jsapi-resources/tree/master/esm-samples/*](https://github.com/Esri/jsapi-resources/tree/master/esm-samples): ts-esm-local-nobundler-angular, js-esm-local-nobundler-ember, js-esm-local-nobundler-react, js-esm-cdn-nobundler-noframework, js-esm-local-rollup-nodejs, js-esm-local-nobundler-vue, js-esm-local-webpack-noframework-2, js-esm-local-rollup-noframework
-* [https://github.com/Esri/arcgis-js-cli](https://github.com/Esri/arcgis-js-cli): ts-esm-local-rollup-noframework, ts-esm-local-webpack-noframework
-* [https://github.com/Esri/jsapi-resources/tree/master/4.x/typescript/demo](https://github.com/Esri/jsapi-resources/tree/master/4.x/typescript/demo): ts-amd-cdn-nobundler-noframework
-* [http://js.arcgis.com/](http://js.arcgis.com/): js-amd-cdn-nobundler-noframework
-* [Quick look at custom builds with ArcGIS JSAPI](https://www.youtube.com/watch?v=VmzjaGfBRyo): js-esm-local-vite-noframework, js-esm-local-webpack-noframework
-* [https://github.com/odoe/snowpack-jsapi](https://github.com/odoe/snowpack-jsapi): js-esm-local-snowpack-noframework
 
 ## License
 
