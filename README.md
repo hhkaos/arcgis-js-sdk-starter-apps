@@ -2,32 +2,32 @@
 
 This is a collection of sample apps that aims to help you getting started with the ArcGIS API for JS, no matter what technologies / architecture you prefer to use:
 
-* **Language**: JavaScript (*.js) or Typescript (*.ts)
+* **Language**: JavaScript (\*.js) or Typescript (\*.ts)
 * **Environment**: client-side (browser) vs server-side (Node.js)
 * **Framework**: None (Vanilla JS) or any framework (Vue, React, Angular, Ember, Ionic, React Native, Flutter...)
 * **Loading from**: CDN or Local (@arcgis/core)
 * **Loading strategy**: AMD (require) or ESM (import)
 * **Web bundler**: Without using a bundler or using one (ViteJS, Rollup.js, Webpack, Parcel, Snowpack, ...)
 
-## Demo apps
+## Starter apps
 
 |Language|Framework|From|Strategy|Bundler|Code|
 |---|---|---|---|---|---|
-|JavaScript|None|CDN|AMD|None|[Code](./js-amd-cdn-nobundler-noframework)
-|JavaScript|None|CDN|ESM|None|[Code](./js-esm-cdn-nobundler-noframework)
-|JavaScript|Ember.js|Local|ESM|None|[Code](./js-esm-local-nobundler-ember)
-|JavaScript|React|Local|ESM|None|[Code](./js-esm-local-nobundler-react)
-|JavaScript|Vue.js|Local|ESM|None|[Code](./js-esm-local-nobundler-vue)
-|JavaScript|None|Local|ESM|Rollup.js|[Code](./js-esm-local-rollup-noframework)
-|JS / NodeJS|None|Local|ESM|Rollup.js|[Code](./js-esm-local-rollup-nodejs)
-|JavaScript|None|Local|ESM|Snowpack|[Code](./js-esm-local-snowpack-noframework)
-|JavaScript|None|Local|ESM|Vite|[Code](./js-esm-local-vite-noframework/README.md)
-|JavaScript|None|Local|ESM|Webpack|[Code](./js-esm-local-webpack-noframework/README.md)
-|JavaScript|None|Local|ESM|Webpack|[Code (alt)](./js-esm-local-webpack-noframework-2/README.md)
-|TypeScript|None|CDN|AMD<sup>1</sup>|None|[Code](./ts-amd-cdn-nobundler-noframework/README.md)
-|TypeScript|AngularJS|Local|ESM|None|[Code](./ts-esm-local-nobundler-angular)
-|TypeScript|None|Local|ESM|Rollup.js|[Code](./ts-esm-local-rollup-noframework)
-|TypeScript|None|Local|ESM|Webpack|[Code](./ts-esm-local-webpack-noframework)
+|JavaScript|None|CDN|AMD|None|[Code](./starter-app/js-amd-cdn-nobundler-noframework)
+|JavaScript|None|CDN|ESM|None|[Code](./starter-app/js-esm-cdn-nobundler-noframework)
+|JavaScript|Ember.js|Local|ESM|None|[Code](./starter-app/js-esm-local-nobundler-ember)
+|JavaScript|React|Local|ESM|None|[Code](./starter-app/js-esm-local-nobundler-react)
+|JavaScript|Vue.js|Local|ESM|None|[Code](./starter-app/js-esm-local-nobundler-vue)
+|JavaScript|None|Local|ESM|Rollup.js|[Code](./starter-app/js-esm-local-rollup-noframework)
+|JS / NodeJS|None|Local|ESM|Rollup.js|[Code](./starter-app/js-esm-local-rollup-nodejs)
+|JavaScript|None|Local|ESM|Snowpack|[Code](./starter-app/js-esm-local-snowpack-noframework)
+|JavaScript|None|Local|ESM|Vite|[Code](./starter-app/js-esm-local-vite-noframework/README.md)
+|JavaScript|None|Local|ESM|Webpack|[Code](./starter-app/js-esm-local-webpack-noframework/README.md)
+|JavaScript|None|Local|ESM|Webpack|[Code (alt)](./starter-app/js-esm-local-webpack-noframework-2/README.md)
+|TypeScript|None|CDN|AMD<sup>1</sup>|None|[Code](./starter-app/ts-amd-cdn-nobundler-noframework/README.md)
+|TypeScript|AngularJS|Local|ESM|None|[Code](./starter-app/ts-esm-local-nobundler-angular)
+|TypeScript|None|Local|ESM|Rollup.js|[Code](./starter-app/ts-esm-local-rollup-noframework)
+|TypeScript|None|Local|ESM|Webpack|[Code](./starter-app/ts-esm-local-webpack-noframework)
 
 If you don't find a sample app that fits your needs, do not hesitate and [open an issue](https://github.com/hhkaos/arcgis-js-api-starter-apps/issues).
 
@@ -59,7 +59,7 @@ If you don't find a sample app that fits your needs, do not hesitate and [open a
 * [esri-vscode-snippets](https://github.com/hhkaos/esri-vscode-snippets): more user snippets to add to your custom User snippets
 * [snippets cheatsheet](https://cheatography.com/hhkaos/cheat-sheets/vscode-arcgis-js-api-4-x-snippets-cheat-sheet/): cheat sheet to help you getting familiar with the VS Code extension.
 
-## Acknoledgments
+## Acknowledgments
 
 Above you will find some of the resources used to compile this samples apps:
 
