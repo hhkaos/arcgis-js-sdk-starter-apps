@@ -35,6 +35,12 @@ If you don't find a starter app that fits your needs, do not hesitate and [open 
 
 ## Getting started training
 
+**Tutorials**: [JS API Tutorials](https://developers.arcgis.com/javascript/latest/display-a-map/)
+
+**Sample code**: [JS API samples](https://developers.arcgis.com/javascript/latest/sample-code/)
+
+**ArcGIS Plaform guides**: [Mapping APIs and services](https://developers.arcgis.com/documentation/mapping-apis-and-services/#topics)
+
 **Videos:**
 
 * [ArcGIS API for JavaScript: Getting Started with Web Development](https://www.youtube.com/watch?v=z9kIZjUjsZ4&list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1&index=30)
@@ -42,6 +48,7 @@ If you don't find a starter app that fits your needs, do not hesitate and [open 
 * [ArcGIS API for JavaScript: Programming Patterns and API Fundamentals](https://www.youtube.com/watch?v=mA8uLu4-IcU&list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1&index=27)
 * [ArcGIS API for JavaScript: Using TypeScript](https://www.youtube.com/watch?v=TYxHZb1HPqs&list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1&index=18)
 * [Introduction to GIS for Developers](https://www.pluralsight.com/courses/gis-introduction-developers)
+* [Playlist of ArcGIS API for JavaScript 4.x](https://www.youtube.com/playlist?list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1)
 
 **Guides:**
 
@@ -52,6 +59,10 @@ If you don't find a starter app that fits your needs, do not hesitate and [open 
 * [ArcGIS API for JavaScript > Build with ES modules](https://developers.arcgis.com/javascript/latest/es-modules/)
 * [ArcGIS API for JavaScript > TypeScript - Setting up your development environment](https://developers.arcgis.com/javascript/latest/typescript-setup/)
 * [ArcGIS API for JavaScript > Migrating from Google Maps JavaScript API to ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/migrating-from-google-maps-to-arcgis-javascript-api/)
+
+**Courses**: [Web development courses](https://www.esri.com/training/Bookmark/FKTCZXK3B)
+
+**API reference**: [ArcGIS for JavaScript API reference](https://developers.arcgis.com/javascript/latest/api-reference/)
 
 ## Other resources
 
