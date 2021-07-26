@@ -29,7 +29,7 @@ This is a collection of sample apps that aims to help you getting started with t
 |TypeScript|None|Local|ESM|Rollup.js|[Code](./starter-apps/ts-esm-local-rollup-noframework)
 |TypeScript|None|Local|ESM|Webpack|[Code](./starter-apps/ts-esm-local-webpack-noframework)
 
-If you don't find a sample app that fits your needs, do not hesitate and [open an issue](https://github.com/hhkaos/arcgis-js-api-starter-apps/issues).
+If you don't find a starter app that fits your needs, do not hesitate and [open an issue](https://github.com/hhkaos/arcgis-js-api-starter-apps/issues).
 
 > **Note <sup>1</sup>**: you will use `import` statements (ESM) with the AMD path, and the TypeScript compiler will translate them to AMD.
 
