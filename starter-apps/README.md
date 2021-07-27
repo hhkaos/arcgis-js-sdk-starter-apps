@@ -14,7 +14,6 @@
 |JavaScript|None|Local|ESM|Webpack|[Code](./js-esm-local-webpack-noframework/README.md)
 |JavaScript|None|Local|ESM|Webpack|[Code (alt)](./js-esm-local-webpack-noframework-2/README.md)
 |TypeScript|None|CDN|AMD<sup>1</sup>|None|[Code](./ts-amd-cdn-nobundler-noframework/README.md)
-|TypeScript|AngularJS|Local|ESM|None|[Code](./ts-esm-local-nobundler-angular)
 |TypeScript|None|Local|ESM|Rollup.js|[Code](./ts-esm-local-rollup-noframework)
 |TypeScript|None|Local|ESM|Webpack|[Code](./ts-esm-local-webpack-noframework)
 
