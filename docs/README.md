@@ -1,14 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Getting started with TypeScript and ArcGIS JS API](#getting-started-with-typescript-and-arcgis-js-api)
-- [Configuration files](#configuration-files)
-  - [NPM's Package (package.json)](#npms-package-packagejson)
-  - [TypeScript file (tsconfig.json)](#typescript-file-tsconfigjson)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Getting started with TypeScript and ArcGIS JS API
 
 These docs aims to help you getting started with TypeScript to be able to use it in combination with the ArcGIS JS API:

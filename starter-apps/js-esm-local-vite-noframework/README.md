@@ -1,4 +1,4 @@
-# ArcGIS JavaScript API
+# js-esm-local-vite-noframework/
 
 This is a demo project:
 

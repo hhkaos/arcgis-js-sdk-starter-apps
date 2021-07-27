@@ -1,4 +1,4 @@
-# ArcGIS API for JavaScript Template Application
+# ts-esm-local-webpack-noframework
 
 > **Note**: it was built using [arcgis-js-cli](https://github.com/Esri/arcgis-js-cli)
 
