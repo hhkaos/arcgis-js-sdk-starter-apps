@@ -1,6 +1,10 @@
 # ts-esm-local-webpack-noframework
 
-> **Note**: it was built using [arcgis-js-cli](https://github.com/Esri/arcgis-js-cli)
+|Language|Framework|From|Strategy|Bundler|
+|---|---|---|---|---|
+|TypeScript|None|Local|ESM|Webpack|
+
+How lo load assets from the CDN instead of local: [ArcGIS API for JavaScript: Building Apps with ES Modules (hax) - min 34:21](https://youtu.be/ojrGonjJI2k?t=2061)
 
 ## Usage
 
@@ -23,3 +27,12 @@ Build the application for deployment.
 npm run build
 ```
 
+## Acknowledgments
+
+The original code from [arcgis-js-cli](https://github.com/Esri/arcgis-js-cli).
+
+## Starter apps maintenance and support
+
+This starter apps are maintained by the community. If you find something broken or outdated and **the code from the starter app comes from another repository please open the issue there**, if it doesn't feel free to [open an issue on this repo](https://github.com/hhkaos/arcgis-js-api-starter-apps/issues).
+
+Note that frameworks and bundlers are outside of the [scope of support](https://support.esri.com/en/supportscope) from the Esri Technical Support. In any case, you can use the issues repositories related to each starter app to interact with the community for support.

@@ -21,7 +21,7 @@ Collection of starter/sample/demo apps that aims to help you getting started wit
 
 * **Language**: JavaScript (\*.js) or Typescript (\*.ts)
 * **Environment**: client-side (browser) vs server-side (Node.js)
-* **Framework**: None (Vanilla JS) or any framework (Vue, React, Angular, Ember, Ionic, React Native, Flutter, ...)
+* **Framework**: None (Vanilla JS) or any framework (Vue, React, Angular, Svelte, Ember, Ionic, React Native, Flutter, Electron, ...)
 * **Loading from**: CDN or Local (@arcgis/core)
 * **Loading strategy**: AMD (require) or ESM (import)
 * **Web bundler**: Without using a bundler or using one (ViteJS, Rollup.js, Webpack, Parcel, Snowpack, ...)
@@ -58,6 +58,12 @@ Collection of starter/sample/demo apps that aims to help you getting started wit
 **Courses**: [Web development courses](https://www.esri.com/training/Bookmark/FKTCZXK3B)
 
 **API reference**: [ArcGIS for JavaScript API reference](https://developers.arcgis.com/javascript/latest/api-reference/)
+
+### Learning paths
+
+We are still working on selecting a curated list of resources you help you better understand which are the most important lessons to get your goal.
+
+But if you need advise do not hesitate, [open an issue](https://github.com/hhkaos/arcgis-js-api-starter-apps/issues).
 
 ## Other resources
 

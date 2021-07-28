@@ -1,8 +1,18 @@
-> **Note**: original code from [github.com/Esri/jsapi-resources/tree/master/esm-samples/jsapi-create-react-app/](https://github.com/Esri/jsapi-resources/tree/master/esm-samples/jsapi-create-react-app/)
+# js-esm-local-nobundler-react
 
-# ArcGIS API for JavaScript with create-react-app
+|Language|Framework|From|Strategy|Bundler|
+|---|---|---|---|---|
+|JavaScript|React|Local|ESM|None|
 
 This repo demonstrates how to use [@arcgis/core](https://www.npmjs.com/package/@arcgis/core) ES modules with `create-react-app`. 
+
+You can find a couple of videos about React + ArcGIS API JS API:
+
+* [Esri events - Videos about React](https://www.youtube.com/c/EsriEvents/search?query=react)
+  * [Developer Primer: React](https://www.youtube.com/watch?v=Gs3UQccHmto)
+  * [ArcGIS JSAPI ESM with create-react-app](https://www.youtube.com/watch?v=dhyMamfjvcQ)
+
+How lo load assets from the CDN instead of local: [ArcGIS API for JavaScript: Building Apps with ES Modules (hax) - min 34:21](https://youtu.be/ojrGonjJI2k?t=2061)
 
 ## Get Started
 
@@ -65,3 +75,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Acknowledgments
+
+The original code from [github.com/Esri/jsapi-resources/tree/master/esm-samples/jsapi-create-react-app/](https://github.com/Esri/jsapi-resources/tree/master/esm-samples/jsapi-create-react-app/).
+
+## Starter apps maintenance and support
+
+This starter apps are maintained by the community. If you find something broken or outdated and **the code from the starter app comes from another repository please open the issue there**, if it doesn't feel free to [open an issue on this repo](https://github.com/hhkaos/arcgis-js-api-starter-apps/issues).
+
+Note that frameworks and bundlers are outside of the [scope of support](https://support.esri.com/en/supportscope) from the Esri Technical Support. In any case, you can use the issues repositories related to each starter app to interact with the community for support.
