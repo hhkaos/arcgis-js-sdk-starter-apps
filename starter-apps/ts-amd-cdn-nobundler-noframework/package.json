@@ -27,8 +27,6 @@
   "dependencies": {},
   "devDependencies": {
     "typescript": "^3.4.3",
-    "@types/arcgis-js-api": "^4.20.0",
-    "@types/chai": "4.2.1",
-    "dojo-typings": "^1.11.9"
+    "@types/arcgis-js-api": "^4.20.0"
   }
 }

@@ -4,12 +4,11 @@
 |---|---|---|---|---|
 |JavaScript|None|Local|ESM|Webpack|
 
-You can find a couple of videos about Webpack + ArcGIS API JS API:
-
+You can find a couple of videos about [Webpack + ArcGIS API JS API at Esri Events Youtube Channel](https://www.youtube.com/c/EsriEvents/search?query=Webpack):
   * [ArcGIS API for JavaScript: Building Apps with ES Modules - min 11:02](https://youtu.be/ojrGonjJI2k?t=663)
   * [ArcGIS API for JavaScript: Building Apps with ES Modules (module federation) - 27:52](https://youtu.be/ojrGonjJI2k?t=1672)
   * [ArcGIS API for JavaScript: Options for Consuming the API - min 15:02](https://youtu.be/UL0m0EXW8Es?t=902)
-* [Using ESM with ArcGIS API for JavaScript]
+* [Using ESM with ArcGIS API for JavaScript](https://www.youtube.com/watch?v=C-8im8eEUPQ)
 
 How lo load assets from the CDN instead of local: [ArcGIS API for JavaScript: Building Apps with ES Modules (hax) - min 34:21](https://youtu.be/ojrGonjJI2k?t=2061)
 
