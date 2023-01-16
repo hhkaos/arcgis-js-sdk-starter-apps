@@ -1,6 +1,6 @@
-# ArcGIS JavaScript API 4.x
+# ArcGIS Maps SDK for JavaScript 4.x
 
-There are many resources and documentation to get start with the [ArcGIS API for JavaScript](http://js.arcgis.com/). This repo includes:
+There are many resources and documentation to get start with the [ArcGIS Maps SDK for JavaScript](http://js.arcgis.com/). This repo includes:
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -17,7 +17,7 @@ There are many resources and documentation to get start with the [ArcGIS API for
 
 ## Starter apps
 
-Collection of starter/sample/demo apps that aims to help you getting started with the [ArcGIS API for JavaScript](http://js.arcgis.com/), no matter what technologies / architecture you prefer to use:
+Collection of starter/sample/demo apps that aims to help you getting started with the [ArcGIS Maps SDK for JavaScript](http://js.arcgis.com/), no matter what technologies / architecture you prefer to use:
 
 * **Language**: JavaScript (\*.js) or Typescript (\*.ts)
 * **Environment**: client-side (browser) vs server-side (Node.js)
@@ -43,17 +43,17 @@ Collection of starter/sample/demo apps that aims to help you getting started wit
 * [ArcGIS API for JavaScript: Programming Patterns and API Fundamentals](https://www.youtube.com/watch?v=mA8uLu4-IcU&list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1&index=27)
 * [ArcGIS API for JavaScript: Using TypeScript](https://www.youtube.com/watch?v=TYxHZb1HPqs&list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1&index=18)
 * [Introduction to GIS for Developers](https://www.pluralsight.com/courses/gis-introduction-developers)
-* [Playlist of ArcGIS API for JavaScript 4.x](https://www.youtube.com/playlist?list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1)
+* [Playlist of ArcGIS Maps SDK for JavaScript 4.x](https://www.youtube.com/playlist?list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1)
 
 **Guides:**
 
-* [ArcGIS API for JavaScript > Get started](https://www.youtube.com/watch?v=TYxHZb1HPqs&list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1&index=18)
-* [ArcGIS API for JavaScript > Install and set up](https://developers.arcgis.com/javascript/latest/install-and-set-up/) (Accessing the API form AMD vs CDN, ESM, ...)
-* [ArcGIS API for JavaScript > Programming patterns](https://developers.arcgis.com/javascript/latest/programming-patterns/)
-* [ArcGIS API for JavaScript > Introduction to tooling](https://developers.arcgis.com/javascript/latest/tooling-intro/)
-* [ArcGIS API for JavaScript > Build with ES modules](https://developers.arcgis.com/javascript/latest/es-modules/)
-* [ArcGIS API for JavaScript > TypeScript - Setting up your development environment](https://developers.arcgis.com/javascript/latest/typescript-setup/)
-* [ArcGIS API for JavaScript > Migrating from Google Maps JavaScript API to ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/migrating-from-google-maps-to-arcgis-javascript-api/)
+* [ArcGIS Maps SDK for JavaScript > Get started](https://www.youtube.com/watch?v=TYxHZb1HPqs&list=PLahIW2YFPQd6Uu9u3kRTgGo-HxONKDTi1&index=18)
+* [ArcGIS Maps SDK for JavaScript > Install and set up](https://developers.arcgis.com/javascript/latest/install-and-set-up/) (Accessing the API form AMD vs CDN, ESM, ...)
+* [ArcGIS Maps SDK for JavaScript > Programming patterns](https://developers.arcgis.com/javascript/latest/programming-patterns/)
+* [ArcGIS Maps SDK for JavaScript > Introduction to tooling](https://developers.arcgis.com/javascript/latest/tooling-intro/)
+* [ArcGIS Maps SDK for JavaScript > Build with ES modules](https://developers.arcgis.com/javascript/latest/es-modules/)
+* [ArcGIS Maps SDK for JavaScriptt > TypeScript - Setting up your development environment](https://developers.arcgis.com/javascript/latest/typescript-setup/)
+* [ArcGIS Maps SDK for JavaScript > Migrating from Google Maps JavaScript API to ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/migrating-from-google-maps-to-arcgis-javascript-api/)
 
 **Courses**: [Web development courses](https://www.esri.com/training/Bookmark/FKTCZXK3B)
 
